@@ -1,0 +1,7 @@
+.imagenRedonda {
+    width: 150px;      /* Asegúrate de que el ancho y alto sean iguales */
+    height: 150px;
+    border-radius: 50%; /* Esto redondea la imagen al 50%, creando un círculo */
+    object-fit: cover;  /* Cubre el contenedor sin distorsión de aspecto */
+  }
+  
